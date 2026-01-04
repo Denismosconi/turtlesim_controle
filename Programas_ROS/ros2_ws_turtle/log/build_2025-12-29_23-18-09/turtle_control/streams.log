@@ -1,0 +1,32 @@
+[0.640s] Invoking command in '/home/denis/ros2_ws_turtle/src/turtle_control': PYTHONPATH=/home/denis/ros2_ws_turtle/build/turtle_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_control build --build-base /home/denis/ros2_ws_turtle/build/turtle_control/build install --record /home/denis/ros2_ws_turtle/build/turtle_control/install.log --single-version-externally-managed install_data
+[0.871s] running egg_info
+[0.871s] writing ../../build/turtle_control/turtle_control.egg-info/PKG-INFO
+[0.874s] writing dependency_links to ../../build/turtle_control/turtle_control.egg-info/dependency_links.txt
+[0.875s] writing entry points to ../../build/turtle_control/turtle_control.egg-info/entry_points.txt
+[0.875s] writing requirements to ../../build/turtle_control/turtle_control.egg-info/requires.txt
+[0.875s] writing top-level names to ../../build/turtle_control/turtle_control.egg-info/top_level.txt
+[0.876s] reading manifest file '../../build/turtle_control/turtle_control.egg-info/SOURCES.txt'
+[0.877s] adding license file 'LICENSE'
+[0.877s] writing manifest file '../../build/turtle_control/turtle_control.egg-info/SOURCES.txt'
+[0.877s] running build
+[0.878s] running build_py
+[0.878s] copying turtle_control/turtle_control_bkp3.py -> /home/denis/ros2_ws_turtle/build/turtle_control/build/lib/turtle_control
+[0.878s] copying turtle_control/turtle_control.py -> /home/denis/ros2_ws_turtle/build/turtle_control/build/lib/turtle_control
+[0.879s] copying turtle_control/turtle_control_bkp2.py -> /home/denis/ros2_ws_turtle/build/turtle_control/build/lib/turtle_control
+[0.879s] running install
+[0.879s] running install_lib
+[0.880s] copying /home/denis/ros2_ws_turtle/build/turtle_control/build/lib/turtle_control/turtle_control_bkp3.py -> /home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages/turtle_control
+[0.880s] copying /home/denis/ros2_ws_turtle/build/turtle_control/build/lib/turtle_control/turtle_control.py -> /home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages/turtle_control
+[0.881s] copying /home/denis/ros2_ws_turtle/build/turtle_control/build/lib/turtle_control/turtle_control_bkp2.py -> /home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages/turtle_control
+[0.881s] byte-compiling /home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages/turtle_control/turtle_control_bkp3.py to turtle_control_bkp3.cpython-310.pyc
+[0.885s] byte-compiling /home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages/turtle_control/turtle_control.py to turtle_control.cpython-310.pyc
+[0.888s] byte-compiling /home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages/turtle_control/turtle_control_bkp2.py to turtle_control_bkp2.cpython-310.pyc
+[0.890s] running install_data
+[0.891s] running install_egg_info
+[0.892s] removing '/home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages/turtle_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.893s] Copying ../../build/turtle_control/turtle_control.egg-info to /home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages/turtle_control-0.0.0-py3.10.egg-info
+[0.893s] running install_scripts
+[0.913s] Installing turtle_control script to /home/denis/ros2_ws_turtle/install/turtle_control/lib/turtle_control
+[0.913s] Installing turtle_control2 script to /home/denis/ros2_ws_turtle/install/turtle_control/lib/turtle_control
+[0.914s] writing list of installed files to '/home/denis/ros2_ws_turtle/build/turtle_control/install.log'
+[0.935s] Invoked command in '/home/denis/ros2_ws_turtle/src/turtle_control' returned '0': PYTHONPATH=/home/denis/ros2_ws_turtle/build/turtle_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/denis/ros2_ws_turtle/install/turtle_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_control build --build-base /home/denis/ros2_ws_turtle/build/turtle_control/build install --record /home/denis/ros2_ws_turtle/build/turtle_control/install.log --single-version-externally-managed install_data

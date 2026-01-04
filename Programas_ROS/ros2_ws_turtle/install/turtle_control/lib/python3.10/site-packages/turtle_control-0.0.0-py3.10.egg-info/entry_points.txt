@@ -1,0 +1,4 @@
+[console_scripts]
+turtle_control = turtle_control.turtle_control:main
+turtle_control2 = turtle_control.turtle_control2:main
+
